@@ -176,8 +176,5 @@ https://email-spam-classifier-9ezwd7up4y97ed4jqdbwyx.streamlit.app/
 
 ---
 
-## 👨‍💻 Author
-
-**Himanshu Pal**
 
 If you found this project helpful, feel free to ⭐ the repository.
