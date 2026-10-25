@@ -76,6 +76,3 @@ NLP-Projects/
 - Chatbots
 - LLM Applications
 
----
-
-AI • Machine Learning • Natural Language Processing
