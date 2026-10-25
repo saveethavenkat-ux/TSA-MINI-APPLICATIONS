@@ -78,8 +78,4 @@ NLP-Projects/
 
 ---
 
-## 👨‍💻 Author
-
-**Himanshu Pal**
-
 AI • Machine Learning • Natural Language Processing
