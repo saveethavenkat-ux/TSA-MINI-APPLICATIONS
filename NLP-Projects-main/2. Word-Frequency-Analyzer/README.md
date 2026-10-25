@@ -84,6 +84,4 @@ https://word-frequency-analyzer-hkpcjaxuv4hnvdxpm7luvk.streamlit.app/
 
 ---
 
-## 👨‍💻 Author
 
-**Himanshu Pal**
