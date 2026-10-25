@@ -105,21 +105,4 @@ pytest tests/
 3. Select the repo, set the main file to `app.py`
 4. Deploy — you'll get a public link to add to your portfolio/resume
 
----
-
-## 🔮 Future Improvements
-
-- Add support for scraping paywalled/JS-heavy sites using `Selenium` or `Playwright`
-- Multi-language support for non-English articles
-- Browser extension version for one-click summarization
-- Optional plug-in for a transformer-based summarizer for even sharper summaries
-
----
-
-## 📄 License
-
-MIT License — free to use and modify.
-
----
-
 
