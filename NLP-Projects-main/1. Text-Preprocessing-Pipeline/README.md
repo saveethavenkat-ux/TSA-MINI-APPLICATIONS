@@ -76,7 +76,3 @@ streamlit run app.py
 https://nlp-text-preprocessing-yf8krpsnqywa7obow6dphe.streamlit.app/
 
 ---
-
-## 👨‍💻 Author
-
-**Himanshu Pal**
