@@ -122,4 +122,4 @@ MIT License — free to use and modify.
 
 ---
 
-Built by RAIEM RANA as part of a personal Python project portfolio.
+
